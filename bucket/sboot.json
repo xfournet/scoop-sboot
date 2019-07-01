@@ -1,7 +1,7 @@
 {
-  "version": "0.1",
-  "url": "https://github.com/xfournet/sboot/archive/v0.1.zip",
-  "extract_dir": "sboot-0.1",
+  "version": "0.2",
+  "url": "https://github.com/xfournet/sboot/archive/v0.2.zip",
+  "extract_dir": "sboot-0.2",
   "bin": "bin/sboot.ps1",
   "checkver": {
     "github": "https://github.com/xfournet/sboot"
