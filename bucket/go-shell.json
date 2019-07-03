@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/cameronharp/Go-Shell/",
+    "description": "A PowerShell module which provides gb alias.",
+    "version": "nightly",
+    "url": "https://github.com/cameronharp/Go-Shell/archive/master.zip",
+    "extract_dir": "Go-Shell-master",
+    "psmodule": {
+        "name": "Go-Shell"
+    },
+    "notes": "See usage: https://github.com/cameronharp/Go-Shell/blob/master/README.md"
+}
