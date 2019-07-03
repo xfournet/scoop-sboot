@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/matt9ucci/DockerCompletion/",
+    "description": "A PowerShell module which provides docker completion.",
+    "version": "1.1809.0.181109",
+    "url": "https://github.com/matt9ucci/DockerCompletion/archive/247e55e947d0a07f8860ac7ec7a9271953621fc7.zip",
+    "extract_dir": "DockerCompletion-master\\DockerCompletion",
+    "psmodule": {
+        "name": "DockerCompletion"
+    },
+    "notes": "See usage: https://github.com/matt9ucci/DockerCompletion/blob/master/README.md"
+}
