@@ -7,5 +7,6 @@
     "psmodule": {
         "name": "Go-Shell"
     },
-    "notes": "See usage: https://github.com/msebire/Go-Shell/blob/master/README.md"
+    "notes": "See usage: https://github.com/msebire/Go-Shell/blob/master/README.md",
+    "persist": "config"
 }
