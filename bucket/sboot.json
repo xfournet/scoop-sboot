@@ -1,8 +1,8 @@
 {
   "homepage" : "https://github.com/xfournet/sboot",
-  "version": "0.4",
-  "url": "https://github.com/xfournet/sboot/archive/v0.4.zip",
-  "extract_dir": "sboot-0.4",
+  "version": "0.5",
+  "url": "https://github.com/xfournet/sboot/archive/v0.5.zip",
+  "extract_dir": "sboot-0.5",
   "bin": "bin/sboot.ps1",
   "checkver": "github",
   "autoupdate": {
@@ -10,6 +10,7 @@
     "extract_dir": "sboot-$version"
   },
   "persist": [
-    "config"
+    "config",
+    "profile"
   ]
 }
