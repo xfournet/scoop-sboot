@@ -1,8 +1,8 @@
 {
-  "homepage" : "https://github.com/xfournet/sboot",
-  "version": "0.5",
-  "url": "https://github.com/xfournet/sboot/archive/v0.5.zip",
-  "extract_dir": "sboot-0.5",
+  "homepage": "https://github.com/xfournet/sboot",
+  "version": "0.6",
+  "url": "https://github.com/xfournet/sboot/archive/v0.6.zip",
+  "extract_dir": "sboot-0.6",
   "bin": "bin/sboot.ps1",
   "checkver": "github",
   "autoupdate": {
@@ -12,5 +12,11 @@
   "persist": [
     "config",
     "profile"
+  ],
+  "post_install": [
+    "if(!(Get-ChildItem -LiteralPath \"$persist_dir\\config\")) {",
+    "    \"sboot config doesn't exist, copying configuration sample\"",
+    "    Copy-Item \"$dir\\config.sample\\*\" -Destination \"$persist_dir\\config\" -Recurse",
+    "}"
   ]
 }
