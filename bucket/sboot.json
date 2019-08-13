@@ -1,8 +1,8 @@
 {
   "homepage": "https://github.com/xfournet/sboot",
-  "version": "0.8",
-  "url": "https://github.com/xfournet/sboot/archive/v0.8.zip",
-  "extract_dir": "sboot-0.8",
+  "version": "0.9",
+  "url": "https://github.com/xfournet/sboot/archive/v0.9.zip",
+  "extract_dir": "sboot-0.9",
   "bin": "bin/sboot.ps1",
   "checkver": "github",
   "autoupdate": {
