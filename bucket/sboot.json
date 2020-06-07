@@ -1,9 +1,9 @@
 {
-    "version": "0.14",
+    "version": "0.15",
     "homepage": "https://github.com/xfournet/sboot",
-    "url": "https://github.com/xfournet/sboot/archive/v0.14.zip",
-    "hash": "8fc1d456f7d393501e614156bbf21e748cb4be4310d30b58ce7d54e6ac83d8b9",
-    "extract_dir": "sboot-0.14",
+    "url": "https://github.com/xfournet/sboot/archive/v0.15.zip",
+    "hash": "6247d5c2e982db841b3d13a2c95ecb049313906e5223845d16bee230540cb8d4",
+    "extract_dir": "sboot-0.15",
     "bin": "bin/sboot.ps1",
     "checkver": "github",
     "persist": [
