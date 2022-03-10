@@ -1,9 +1,13 @@
 {
-    "version": "0.17",
     "homepage": "https://github.com/xfournet/sboot",
-    "url": "https://github.com/xfournet/sboot/archive/v0.17.zip",
-    "hash": "ed010f13b2ad3dee72125fa2f87665f1fc2913e5a9df40e22de5696d6cc55007",
-    "extract_dir": "sboot-0.17",
+    "description": "Scoop boot",
+    "license": {
+        "identifier": "Unlicensed"
+    },
+    "version": "0.18",
+    "url": "https://github.com/xfournet/sboot/archive/v0.18.zip",
+    "hash": "3285832627fa3b062a08530925f75835e884be1d22c4fdb5b344f1e60a6a813e",
+    "extract_dir": "sboot-0.18",
     "bin": "bin/sboot.ps1",
     "checkver": "github",
     "persist": [
